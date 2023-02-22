@@ -1,3 +1,18 @@
+<h1>Primeiro projeto REACT - Curso React: desenvolvendo com JavaScript -> Alura</h1>
+
+# Projeto Realizaxo por [Thiago Zambelli](https://www.linkedin.com/in/thiagozambelli)
+
+## Assuntos abordados :
+
+* Criamos um novo projeto React;
+* Criamos componentes funcionais;
+* Estilizamos componentes com CSS;
+* Analisamos as dependências do projeto;
+* Analisamos os comandos disponíveis no `package.json`.
+
+<hr>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
