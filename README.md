@@ -22,6 +22,14 @@
 
 <hr>
 
+# Assuntos para estudo posterior:
+
+> Com `debugger` é possivel pausar a execução da aplicação no ponto exato de incerssão do comando e controlar pelo console do V8.
+
+>Fragmnet é uma forma de criar mais de uma elemento em um componente podendo ser aberto com `<Fragment> <Fragment/>` ou simplismente `<> </>`
+
+<hr>
+
 
 # Getting Started with Create React App
 
