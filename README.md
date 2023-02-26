@@ -15,7 +15,10 @@
 * Ouvimos elementos disparados pelo DOM: o `onSubmit` do nosso `form`;
 * Controlar `inputs` utilizando `value` e `onChange`;
 * Gerenciar o estado de um componente, utilizando o `useState`;
-* Trabalhar com `props` que são funções.
+* Trabalhar com `props` que são funções;
+* Manipular e transformar arrays de objetos;
+* Filtrar itens de um array;
+* Renderização condicional.
 
 <hr>
 
