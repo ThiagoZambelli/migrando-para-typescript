@@ -4,15 +4,7 @@ import CampoTexto from "../CampoTexto/CampoTexto"
 import ListaSuspenca from "../ListaSuspenca"
 import "./Formulario.css"
 const Formulario = (props) => {
-    const times = [
-        'Programação',
-        'Front-End',
-        'Data-science',
-        'Devops',
-        'UX e Dsignin',
-        'Mobile',
-        'Inivação e Gestão'
-    ]
+    
 
     const [nome, setNome] = useState('')
     const [cargo, setCargo] = useState('')
@@ -26,7 +18,11 @@ const Formulario = (props) => {
             cargo,
             imagem,
             time
-        })
+        });
+        setCargo('');
+        setImagem('');
+        setNome('');
+        setTime('');
     }
 
     return (
@@ -56,7 +52,7 @@ const Formulario = (props) => {
                 <ListaSuspenca 
                     obrigatorio={true} 
                     label="Time" 
-                    itens={times} 
+                    itens={props.times} 
                     valor={time}
                     aoAlterado={valor => setTime(valor)}
                     />
