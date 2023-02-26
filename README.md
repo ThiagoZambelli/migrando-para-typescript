@@ -18,7 +18,10 @@
 * Trabalhar com `props` que são funções;
 * Manipular e transformar arrays de objetos;
 * Filtrar itens de um array;
-* Renderização condicional.
+* Renderização condicional;
+* Ler e interpretar mensagens de erro;
+* Corrigir erros;
+* Depurar o seu código com o debugger.
 
 <hr>
 
