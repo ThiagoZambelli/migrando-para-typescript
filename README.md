@@ -24,3 +24,9 @@
 - Gerar o tsconfig.json a partir do script npx;
 - Aplicar as configurações do jsx;
 - Diferenciar arquivos js, jsx, ts e tsx.
+
+### Aula 2:
+- Configurar o jsx no tsconfig.json;
+- Configurar a tipagem de funções;
+- Inferir os tipos de variáveis geradas pela desconstrução das props;
+- Para que servem pacotes dentro do escopo @types.
