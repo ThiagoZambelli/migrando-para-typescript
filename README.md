@@ -38,6 +38,16 @@
 - Tipar funções;
 - Configurar o jsx no tsconfig.json.
 
+### Aula 4:
+- Explicitar que uma expressão que pode ser nula tem, de fato, algum valor;
+- Utilizar fragmentos React;
+- Trabalhar com múltiplos tipos para uma mesma prop.
+
+### Aula 5:
+- Refatorar componentes, adicionando novas funcionalidades;
+- Entender as vantagens e desvantagens do TypeScript;
+- Configurar regras no tsconfig.json.
+
 &nbsp;
 
 ---
